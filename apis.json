@@ -1,0 +1,86 @@
+{
+    "name": "equensWorldline",
+    "description": "equensWorldline is the pan-European leader in payments and transactional services. Being part of the Worldline Group, we combine long-standing proven expertise in traditional mass payment systems and innovative e-commerce and mobile payment solutions. With more than 50 years of experience we service a broad, international client base in numerous countries across Europe.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28340-equensworldline-com.jpg",
+    "tags": [
+        "api provider",
+        "banking",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "profile",
+        "psd2"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/equensworldline\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "equensWorldline",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28340-equensworldline-com.jpg",
+            "humanURL": "https:\/\/equensworldline.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/equensworldline-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/equensworldline-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/equensworldline.com\/en\/home\/blog.html"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/developer.equensworldline.com\/home\/contact-us.html"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/equens"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.equensworldline.com\/home.html"
+        },
+        {
+            "type": "Email",
+            "url": "info@equens.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-ew@equensworldline.com"
+        },
+        {
+            "type": "Email",
+            "url": "supportdesk-ew@equensworldline.com"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developer.equensworldline.com\/home\/get-started.html"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/developer.equensworldline.com\/home\/support.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/eW_eu"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/equensworldline.com"
+        }
+    ]
+}
